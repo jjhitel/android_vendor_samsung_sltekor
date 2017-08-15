@@ -176,6 +176,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sltekor/proprietary/vendor/lib/libLifevibes_lvvetx.so:system/vendor/lib/libLifevibes_lvvetx.so \
     vendor/samsung/sltekor/proprietary/lib/hw/camera.universal5430.so:system/lib/hw/camera.universal5430.so \
     vendor/samsung/sltekor/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
+    vendor/samsung/sltekor/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/sltekor/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/sltekor/proprietary/vendor/firmware/setfile_2p2_12m.bin:system/vendor/firmware/setfile_2p2_12m.bin \
     vendor/samsung/sltekor/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
